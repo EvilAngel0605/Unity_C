@@ -1,0 +1,20 @@
+Unity与C++网络游戏开发实战：基于VR、AI与分布式架构
+京东购书网址：http://item.jd.com/12534816.html
+
+---------------------------------
+百度网盘下载地址：
+链接: https://pan.baidu.com/s/1ThT6ObkR7KJbxVpY3qKwcA 提取码: qv6x 复制这段内容后打开百度网盘手机App，操作更方便哦
+
+SVN下载地址：https://www.sintol.cn:8080/svn/CarProject （需要登录），SVN账号为guest，密码为123321
+
+---------------------------
+本书相关开发工具下载：
+Unity引擎下载地址：https://unity3d.com/cn/
+Visual Studio下载地址：https://www.visualstudio.com/zh-hans/downloads/
+Java JDK下载地址：http://jdk.android-studio.org/
+Android ADT下载地址：http://adt.android-studio.org/
+Unity For Visual Studio下载地址：https://marketplace.visualstudio.com/items?itemName=SebastienLebreton.VisualStudio2015ToolsforUnity
+MySQL数据库下载地址：https://dev.mysql.com/downloads/file/?id=474803
+Native forMySQL工具下载地址：http://rj.baidu.com/soft/detail/24312.html?ald
+Protobuf下载地址：https://github.com/google/protobuf
+Visio下载地址：http://rj.baidu.com/soft/detail/38822.html
